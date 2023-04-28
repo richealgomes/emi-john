@@ -1,0 +1,27 @@
+.cart-container{
+    padding: 25px;
+    height: 100vh;
+    background: rgba(255, 153, 0, 0.3);
+    margin-right: 0px;
+    margin-left: 50px;
+    padding-left: 20px;
+    position: sticky;
+    top: 0;
+}
+.summary{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+
+}
+.cart-container p{
+    font-size: 25px;
+    margin: 6px;
+    padding-left: 20px;
+}
+.cart-container h6{
+    font-weight: 500;
+    font-size: 25px;
+    padding-left: 20px;
+}

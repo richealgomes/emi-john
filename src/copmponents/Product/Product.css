@@ -1,20 +1,21 @@
 
 .Product{
-    width: 300px;
-    height: 510px;
+    /* width: 300px;
+    height: 510px; */
     border: 2px solid gray;
     border-radius: 8px; 
-    padding-bottom: 10px;
+    padding-bottom: 40px;
     position: relative;
 
 }
 .info{
     margin-left: 20px;
+    padding: 10px;
 }
 .Product img{
-    width:  286px;
-    height: 286px;
-    margin: 7px;
+    /* width:  286px; */
+    width: 100%;
+    height: 400px;
     border-radius: 7px;
 }
 .name{
